@@ -1,3 +1,3 @@
-## Javascript quiz example
+## Exemple quiz amb javascript
 
-a simple quiz application to practice object orientend programming in Javascript
+Un exemple senzill per copiar i generar un quiz i després personalitzar segons es necessiti.
